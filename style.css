@@ -1,0 +1,33 @@
+header{
+    background-color: blue;
+    height: 80px;
+}
+
+header nav a:first-child{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+    left: 120px;
+    position: relative;
+    top: 22px;
+    padding: 7px;
+}
+
+/* main{
+    background-image: url(hatter.png);
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px;
+} */
+
+#hammer{
+    width: 70px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    bottom: 75px;
+    left: 10px;
+}
