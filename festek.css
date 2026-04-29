@@ -1,0 +1,70 @@
+header{
+    background-color: rgb(17, 17, 144);
+    height: 80px;
+}
+
+footer{
+    background-color: rgb(17, 17, 144);
+    height: 80px;
+    display: flex;
+    gap: 140px;
+}
+
+footer p{
+    color: white;
+    font-size: larger;
+    position: relative;
+    left: 270px;
+    top: 10px;
+}
+
+#festek{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+    left: 120px;
+    position: relative;
+    top: 29px;
+    padding: 8px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#hammer{
+    width: 70px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    bottom: 75px;
+    left: 10px;
+}
+
+body{
+    background-image: url(hatter.png);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+#valasszszin{
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 1200px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.szinek{
+    width: 250px;
+    border: 2px solid black;
+    box-shadow: 16px -12px 17px -5px rgba(0, 0, 0, 0.36);
+    border-radius: 21px;
+    position: relative;
+    left: 300px;
+    bottom: 50px;
+}
