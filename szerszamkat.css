@@ -8,7 +8,6 @@ footer{
     height: 80px;
     display: flex;
     gap: 140px;
-    margin-top: 40px;
 }
 
 footer p{
@@ -17,6 +16,10 @@ footer p{
     position: relative;
     left: 270px;
     top: 10px;
+}
+
+#szerszam{
+    font-weight: bold;
 }
 
 a{
@@ -45,60 +48,23 @@ body{
     background-size: cover;
 }
 
-#faanyag{
+#szerszamok{
     background-color: rgba(255, 255, 255, 0.9);
     width: 1200px;
     margin: auto;
-    padding-bottom: 400px;
 }
 
 h1{
-    position: absolute;
-    top: 450px;
-    left: 800px;
+    text-align: center;
+    font-size: 50px;
 }
 
-.fak{
+.szer{
     width: 250px;
     border: 2px solid black;
     box-shadow: 16px -12px 17px -5px rgba(0, 0, 0, 0.36);
     border-radius: 21px;
     position: relative;
-    left: 460px;
-    top: 30px;
-}
-
-p{
-    font-size: 20px;
-    position: relative;
-    top: 140px;
-    left: 40px;
-}
-
-.leiras{
-    padding-right: 70px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.tablecim{
-    background-color: rgb(67, 67, 67);
-    color: white;
-    width: 100px;
-    font-weight: bold;
-}
-
-table{
-    font-family: Arial, Helvetica, sans-serif;
-    position: relative;
-    top: 200px;
-    left: 40px;
-    font-size: 15px;
-}
-
-#elsosor{
-    width: 1000px;
-}
-
-tr{
-    height: 35px;
+    left: 300px;
+    bottom: 50px;
 }
