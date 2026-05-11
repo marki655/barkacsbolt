@@ -53,9 +53,9 @@ body{
 }
 
 h1{
-    position: absolute;
-    top: 470px;
-    left: 600px;
+    position: relative;
+    top: 70px;
+    left: 328px;
 }
 
 .szinek{

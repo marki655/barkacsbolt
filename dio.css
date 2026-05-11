@@ -53,9 +53,9 @@ body{
 }
 
 h1{
-    position: absolute;
-    top: 450px;
-    left: 820px;
+    position: relative;
+    top: 60px;
+    left: 562px;
 }
 
 .fak{

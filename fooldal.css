@@ -40,7 +40,7 @@ h1{
 
 #falon{
     position: absolute;
-    left: 285px;
+    left: 375px;
     width: 1150px;
     height: 360px;
     bottom: 230px;
@@ -52,15 +52,15 @@ h1{
     background-color: rgb(47, 126, 216);
     padding: 6px;
     position: absolute;
-    left: 626px;
-    bottom: 720px;
+    left: 700px;
+    bottom: 580px;
     border-radius: 5px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #nyitva{
     position: absolute;
-    left: 275px;
+    left: 400px;
     bottom: 90px;
 }
 
