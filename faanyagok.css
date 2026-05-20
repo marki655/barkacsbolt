@@ -14,7 +14,7 @@ footer p{
     color: white;
     font-size: larger;
     position: relative;
-    left: 270px;
+    left: 123px;
     top: 10px;
 }
 
@@ -25,10 +25,10 @@ footer p{
 a{
     text-decoration: none;
     color: white;
-    font-size: 1em;
+    font-size: 25px;
     left: 120px;
     position: relative;
-    top: 29px;
+    top: 25px;
     padding: 8px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
