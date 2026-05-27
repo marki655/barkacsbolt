@@ -45,20 +45,19 @@ body{
     background-size: cover;
 }
 
-#faanyag{
+#szoveghatter{
     background-color: rgba(255, 255, 255, 0.9);
     width: 1200px;
     margin: auto;
-    padding-bottom: 400px;
+    padding-bottom: 600px;
 }
 
 h1{
-    position: relative;
-    top: 60px;
-    left: 562px;
+    text-align: center;
+    padding-top: 30px;
 }
 
-.fak{
+.kep{
     width: 250px;
     border: 2px solid black;
     box-shadow: 16px -12px 17px -5px rgba(0, 0, 0, 0.36);
@@ -70,10 +69,18 @@ h1{
 
 p{
     font-size: 20px;
-    position: relative;
-    top: 140px;
-    left: 40px;
+    text-align: center;
+    text-align: justify;
+    padding-left: 60px;
 }
+
+.rosszp{
+    text-align: center;
+    padding-left: 0px;
+}
+
+
+
 
 .leiras{
     padding-right: 70px;
